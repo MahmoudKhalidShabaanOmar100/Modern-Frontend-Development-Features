@@ -39,7 +39,7 @@
         </td>
         <td>
             <strong>Own HTML Document Rendering</strong>
-            <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/blob/main/HTML-Fundementals/class4/YourFristWebPage/YourFristWebPageImages/OwnHTMLDocumentCodes%20(2).png" alt="Own HTML Document Rendering..." />
+            <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/blob/main/HTML-Fundementals/class4/YourFristWebPage/YourFristWebPageImages/OwnHTMLDocumentImage2.png" alt="Own HTML Document Rendering..." />
         </td>
     </tr>
 </table>
