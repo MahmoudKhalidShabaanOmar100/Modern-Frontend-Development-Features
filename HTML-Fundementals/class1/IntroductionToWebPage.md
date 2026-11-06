@@ -9,9 +9,20 @@
 - The Frist Web Page Is A Non Graphical Web Page.
 - Tim Berners Lee Does Not Use Any Language Else HTML Language Like CSS Language To Make The Styling , And Decorations Of The Frist Web Page.
 
-| World Wide Web | First Web Page |
-| ![World Wide Web](https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/raw/main/HTML-Fundementals/Different-HTML-Images/ItroductionToTheWebPageImages/WWW.jpeg) | ![First Web Page](https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/raw/main/HTML-Fundementals/Different-HTML-Images/ItroductionToTheWebPageImages/FristWebPage.jpeg) |
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>World Wide Web</strong>
+      <br>
+      <img src="https://raw.githubusercontent.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/main/HTML-Fundementals/Different-HTML-Images/ItroductionToTheWebPageImages/WWW.jpeg" width="100%">
+    </td>
+    <td align="center" width="50%">
+      <strong>First Web Page</strong>
+      <br>
+      <img src="https://raw.githubusercontent.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/main/HTML-Fundementals/Different-HTML-Images/ItroductionToTheWebPageImages/FristWebPage.jpeg" width="100%">
+    </td>
+  </tr>
+</table>
 -----------------------------------------------
 ## Second Web Page:
 
