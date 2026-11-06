@@ -35,7 +35,7 @@
         <td>
             <strong>Own HTML Document Codes</strong>
             <br />
-            <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/blob/main/HTML-Fundementals/class4/YourFristWebPage/YourFristWebPageImages/OwnHTMLDocumentCodes%20(1).png" alt="Own HTML Document Codes..." />
+            <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/blob/main/HTML-Fundementals/class4/YourFristWebPage/YourFristWebPageImages/OwnHTMLDocumentCodesImage1.png" alt="Own HTML Document Codes..." />
         </td>
         <td>
             <strong>Own HTML Document Rendering</strong>
