@@ -48,16 +48,13 @@
 >[!Important]
 >- HTML Contains All HTML Codes Of Your Own HTML Document...
 ><br />
-><br />
 >- Head Contains A Collection Of MetaData For Your Own HTML Document...
-><br />
 ><br />
 >- Body Contains Different Contents Of Your Own HTML Document That Appears For Different Users...
 
 -------------------------------------------------------------------------------------
 >[!Tip]
 >- MetaData Refers To Collection Of Instructions , Or Information About Information For Different Browsers Like Google Chrome , Firefox Developer Edition To Know How To Archive , Or Render Your Own HTML Document (Own Web Page) But It Is Not Content That Appears For Different Users Of Your Own HTML Document (Own Web Page)....
-><br />
 ><br />
 >- Content Inside TITLE HTML Tag Is Not Appear For Different Users Of Your Own HTML Document (Own Web Page) But It Appears If The Searching Tab In The Top Left Of Any Browser Like Google Chrome , Firefox Developer Edition...
 
