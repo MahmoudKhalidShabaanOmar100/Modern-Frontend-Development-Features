@@ -13,12 +13,12 @@
     <td>
       <strong>HTML V4 VS HTML V5</strong>
       <br />
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/blob/main/HTML-Fundementals/Different-HTML-Images/IntroductionToHTMLLanguageImages/HTMLV4VSHTMLV5.jpeg" alt="HTML V4 VS HTML V5" width="49.5%" />
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/blob/main/HTML-Fundementals/Different-HTML-Images/IntroductionToHTMLLanguageImages/HTMLV4VSHTMLV5.jpeg" alt="HTML V4 VS HTML V5" />
     </td>
     <td>
       <strong>HTML V4 VS HTML V5</strong>
       <br />
-      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/blob/main/HTML-Fundementals/Different-HTML-Images/IntroductionToHTMLLanguageImages/BuildingHTMLV4VSBuildingHTMLV5.png" alt="HTML V4 VS HTML V5" width="49.5%"/>
+      <img src="https://github.com/MahmoudKhalidShabaanOmar100/Modern-Frontend-Development-Features/blob/main/HTML-Fundementals/Different-HTML-Images/IntroductionToHTMLLanguageImages/BuildingHTMLV4VSBuildingHTMLV5.png" alt="HTML V4 VS HTML V5" />
     </td>
   </tr>
 </table>
