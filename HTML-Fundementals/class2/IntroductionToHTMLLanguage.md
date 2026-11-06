@@ -24,7 +24,9 @@
 </table>
 
 --------------------------------------------
->[!important]
+>[!Important]
 >HTML Is A Standard , This Means That You Can Not Replace The HTML Language With Any Language To Build The Structure Of Your Own HTML Document (Own Web Page) , But The CSS Language Is Not A Standard Language , Because You Can Replace CSS Language With Any Styling Libraries , Or Decorations Libraries Like BootStrap CSS , Or Tailwind CSS To Make The Styling , Or Decorations Of Your Own HTML Document (Own Web Page)...
 
 ----------------------------------------------
+>[!Warning]
+>You Must Know That The HTML Is Not A Programming Language Like CPP , PY , And More , But It Is A Markup Language , Or Structure Language...
